@@ -1,3 +1,3 @@
 pub usingnamespace @cImport({
-    @cInclude("include/glad/gl.h");
+    @cInclude("glad/gl.h");
 });
